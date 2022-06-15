@@ -1,3 +1,3 @@
-import * as cmd from "./cmd";
+import * as cmd from "./cmd"
 
 cmd.execute()

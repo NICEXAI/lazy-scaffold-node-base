@@ -1,0 +1,1 @@
+npx ts-node ./src/app.ts config init
